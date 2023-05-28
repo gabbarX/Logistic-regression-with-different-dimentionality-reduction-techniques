@@ -9,7 +9,7 @@ This code is an implementation of logistic regression with feature dimensionalit
 - scikit-learn: A machine learning library that provides tools for data preprocessing, model selection, and evaluation.
 
 ## Functions
-## accuracy(y_true, y_pred)
+### accuracy(y_true, y_pred)
 This function calculates the accuracy of the predicted values y_pred compared to the true values y_true. It returns the accuracy as a floating-point number.
 
 ### sigmoid(x)
